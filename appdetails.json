@@ -1,0 +1,15 @@
+{
+  "ads":"false",
+  "update":[{
+    "version":"2.8.1600",
+    "title":"Let Us Surf",
+    "description":"Surf and Browse as you see fit!!",
+    "size":"https://git.io/JeY69"
+  }],
+
+ "free":[
+    { "file":0, "city":"Tokyo","country":"Japan","image":"japan","ip":"176.34.40.168","active":"true","signal":"a"},
+    { "file":1, "city":"Singapore City","country":"Singapore","image":"singapore","ip":"54.255.185.136","active":"true","signal":"b"},
+   // {"id":2, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"}
+  ]
+}
